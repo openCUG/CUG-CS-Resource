@@ -39,7 +39,7 @@
 
 ### Sophomore Year
 
-#### Data Structure
+#### 数据结构
 
 课程PPT + 考试复习
 
@@ -51,11 +51,13 @@ Lab参考
 - [data_structure_lab3](https://github.com/Spercent521/data_structure_lab3)
 - [data-structure-lab4](https://github.com/Spercent521/data-structure-lab4)
 
-#### Computer Network
+#### 计算机网络
 - [ComputerNetwork_ForRelease](https://github.com/Spercent521/ComputerNetwork_ForRelease)
 
-#### Discrete Mathematics
+#### 离散数学
 - [Discrete_Mathematics_ForRelease](https://github.com/Spercent521/Discrete_Mathematics_ForRelease)
 
+### 大学生生理健康
+- [Course-Report-LaTeX](https://github.com/Spercent521/Course-Report-LaTeX)
 
 

@@ -55,3 +55,6 @@ Lab References
 
 #### Discrete Mathematics
 - [Discrete_Mathematics_ForRelease](https://github.com/Spercent521/Discrete_Mathematics_ForRelease)
+
+### College Students' Physiological Health
+- [Course-Report-LaTeX](https://github.com/Spercent521/Course-Report-LaTeX)
