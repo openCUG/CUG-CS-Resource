@@ -26,7 +26,7 @@ At the same time, we remind everyone to pay attention to:
 ## Course Navigation
 
 Provided By:
-[Spercent521](https://github.com/Spercent521)
+[Spercent521](https://github.com/Spercent521) [H34V3N](https://github.com/Ja5M1ne-H34V3N)
 
 [H34V3N](https://github.com/Ja5M1ne-H34V3N)
 

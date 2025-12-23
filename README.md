@@ -36,7 +36,9 @@
 > 注：大一期间整理的资料主要集中在一个旧仓库中，虽然结构稍显臃肿，但仍包含大量有价值的内容.后续我们会继续维护
 
 - **资料汇总**: [GraduateWorkArchive_CSer](https://github.com/Spercent521/GraduateWorkArchive_CSer)
-
+#### IIT数据结构
+> 注：国际部同学的数据结构在大一下半年就开始学习
+- [IIT-DataStructure](https://github.com/Ja5M1ne-H34V3N/n0te/tree/main/note/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 ### Sophomore Year
 
 #### 数据结构
@@ -53,11 +55,15 @@ Lab参考
 
 #### 计算机网络
 - [ComputerNetwork_ForRelease](https://github.com/Spercent521/ComputerNetwork_ForRelease)
-
+- [ComputerNetwork_ForRelease2](https://github.com/Ja5M1ne-H34V3N/n0te/tree/main/note/%E8%AE%A1%E7%BD%91)
 #### 离散数学
 - [Discrete_Mathematics_ForRelease](https://github.com/Spercent521/Discrete_Mathematics_ForRelease)
 
 ### 大学生生理健康
 - [Course-Report-LaTeX](https://github.com/Spercent521/Course-Report-LaTeX)
 
+### 数据库管理
+- [IIT-Database](https://github.com/Ja5M1ne-H34V3N/n0te/tree/main/note/%E6%95%B0%E6%8D%AE%E5%BA%93)
 
+### 算法导论
+- [IIT-introductionOfAlgorism](https://github.com/Ja5M1ne-H34V3N/n0te/tree/main/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA)
