@@ -1,5 +1,9 @@
 # CUG-CS-Resource
 
+> [!IMPORTANT]
+>
+> We provide English documents, but with a certain lag in timing.
+
 Index of course materials for Computer Science and Technology at China University of Geosciences (Wuhan).
 
 [中文文档](README.md)

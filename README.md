@@ -62,6 +62,9 @@ Lab参考
 ### 大学生生理健康
 - [Course-Report-LaTeX](https://github.com/Spercent521/Course-Report-LaTeX)
 
+### 习近平新时代中国特色社会主义概论
+[xisixiang_ForRelease](https://github.com/Spercent521/xisixiang_ForRelease)
+
 ### 数据库管理
 - [IIT-Database](https://github.com/Ja5M1ne-H34V3N/n0te/tree/main/note/%E6%95%B0%E6%8D%AE%E5%BA%93)
 
