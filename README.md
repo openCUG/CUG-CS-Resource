@@ -4,7 +4,7 @@
 
 中国地质大学(武汉)计算机科学与技术专业课程资料索引.
 
-## Overview
+# Overview
 
 本项目旨在整理和分享本科期间的课程资料与代码.
 
@@ -12,7 +12,7 @@
 
 这样可以保持结构的清晰，也便于针对特定课程进行维护. 维护者平时可以关注自己的项目, 汇总时只用给出链接+更新本`README.md`文档即可 .
 
-## Co-maintenance
+# Co-maintenance
 
 仅靠我们不能保证资料的完整性和有效性 因此 *欢迎提交 Issue 或 Pull Request 补充更多资料！*
 
@@ -23,23 +23,26 @@
 - 含有代码的仓库要对代码质量负责
 - ...
 
-## Course Navigation
+# Course Navigation
 
 由以下贡献者提供 :
 
 [Spercent521](https://github.com/Spercent521) , [H34V3N](https://github.com/Ja5M1ne-H34V3N) , ...
 
-### Freshman Year
+## Freshman Year
 
 > 注：大一期间整理的资料主要集中在一个旧仓库中，虽然结构稍显臃肿，但仍包含大量有价值的内容.后续我们会继续维护
 
 - **资料汇总**: [GraduateWorkArchive_CSer](https://github.com/Spercent521/GraduateWorkArchive_CSer)
-#### IIT数据结构
+
+### IIT数据结构
+
 > 注：国际部同学的数据结构在大一下半年就开始学习
 - [IIT-DataStructure](https://github.com/Ja5M1ne-H34V3N/n0te/tree/main/note/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
-### Sophomore Year
 
-#### 数据结构
+## Sophomore Year
+
+### 数据结构
 
 课程PPT + 考试复习
 
@@ -51,10 +54,11 @@ Lab参考
 - [data_structure_lab3](https://github.com/Spercent521/data_structure_lab3)
 - [data-structure-lab4](https://github.com/Spercent521/data-structure-lab4)
 
-#### 计算机网络
+### 计算机网络
 - [ComputerNetwork_ForRelease](https://github.com/Spercent521/ComputerNetwork_ForRelease)
 - [ComputerNetwork_ForRelease2](https://github.com/Ja5M1ne-H34V3N/n0te/tree/main/note/%E8%AE%A1%E7%BD%91)
-#### 离散数学
+
+### 离散数学
 - [Discrete_Mathematics_ForRelease](https://github.com/Spercent521/Discrete_Mathematics_ForRelease)
 
 ### 大学生生理健康
