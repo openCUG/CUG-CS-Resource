@@ -72,3 +72,8 @@ Lab参考
 
 ### 算法导论
 - [IIT-introductionOfAlgorism](https://github.com/Ja5M1ne-H34V3N/n0te/tree/main/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA)
+
+### 数据库系统概论
+- [数据库系统概论](https://blog.alexsun.top/vuepress-database-notes/database/)
+   - [作者主页](https://blog.alexsun.top/)
+- [vuepress-database-notes](https://github.com/Sun-ZhenXing/vuepress-database-notes.git)
